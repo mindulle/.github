@@ -5,7 +5,7 @@
 
 취약점 제보는 *mindullestudio@gmail.com*으로 메일을 보내주세요.
 
-# Security Policy
+# 🔒️ Security Policy
 
 ## Reporting a Vulnerability
 
